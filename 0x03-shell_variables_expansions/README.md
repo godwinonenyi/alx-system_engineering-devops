@@ -1,1 +1,2 @@
-shell variable expansion
+hexadecimal from decimal
+decimal to hexadecimal
